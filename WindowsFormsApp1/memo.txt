@@ -1,0 +1,11 @@
+﻿https://docs.microsoft.com/en-us/ef/core/miscellaneous/cli/powershell
+//DB First (scaffold-dbcontext)
+
+//(base) PM > Scaffold - DbContext "Server=localhost;Port=8081;User Id=postgres;Password=mypassword;Database=Sample;" Npgsql.EntityFrameworkCore.PostgreSQL - OutputDir Models2
+// Scaffold - DbContext "Server=localhost;Port=8081;User Id=postgres;Password=mypassword;Database=Sample;" Npgsql.EntityFrameworkCore.PostgreSQL -Output Models2
+//    Build started...
+//Build succeeded.
+
+
+■script出力
+script-migration
